@@ -1,3 +1,4 @@
+// for 1st dice
 var randomNumber1=(Math.floor(Math.random()*6)+1);
 var randomDiceImages="dice" + randomNumber1 + ".png";
 var randomImageSource="images/" + randomDiceImages ;
